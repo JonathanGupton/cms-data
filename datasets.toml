@@ -1,3 +1,26 @@
+[ICD-10-PCS]
+DESCRIPTION = "ICD-10-PCS diagnosis codes with description in tabular order"
+HEADER = ["code", "description"]
+DIRECTORY = "ICD-10-PCS"
+
+    [ICD-10-PCS.HEADER_DESCRIPTION]
+    code = "ICD-10-PCS Code"
+    description = "ICD-10-PCS code long description"
+
+    [ICD-10-PCS.DATATYPES]
+    code = "String"
+    description = "String"
+
+    [ICD-10-PCS.2023]
+    FISCALYEAR = 2023
+    FILE = "icd10pcs_codes_2023.txt"
+    DESCRIPTION = "FY 2023 ICD-10-PCS Codes"
+    SOURCE = "https://www.cms.gov/files/zip/2023-icd-10-pcs-codes-file.zip"
+    PUBLISHED = 2022-05-23
+    START = 2022-10-01
+    END = 2023-09-30
+
+
 [ICD-10-CM]
 DESCRIPTION = "ICD-10-CM diagnosis codes with description in tabular order"
 HEADER = ["code", "description"]
