@@ -5,7 +5,6 @@ New data sets will continue to be added over time.
 
 See datasets.toml for information on the individual data sets.
 
-The dataset filestructure is `data/{dataset-name}/{year}.csv`
+The dataset path is `https://raw.githubusercontent.com/JonathanGupton/cms-data/master/data/{dataset-name}/{year}.csv`
 
-For questions or to have a specific file added, please reach out at 
-jonathan.gupton-at-gmail-dot-com 
+For questions or to have a specific file added, please reach out at jonathan.gupton-at-gmail-dot-com 
