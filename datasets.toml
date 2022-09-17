@@ -1,12 +1,15 @@
 [ICD-10-CM]
 DESCRIPTION = "ICD-10-CM diagnosis codes with description in tabular order"
-FORMAT = "To do"
 HEADER = ["code", "description"]
 DIRECTORY = "ICD-10-CM"
 
     [ICD-10-CM.HEADER_DESCRIPTION]
-    code = "ICD-10-CM Code as 7 digit str without the decimal"
+    code = "ICD-10-CM Code"
     description = "ICD-10-CM code's long description"
+
+    [ICD-10-CM.DATATYPES]
+    code = "String"
+    description = "String"
 
     [ICD-10-CM.2023]
     FISCALYEAR = 2023
@@ -20,7 +23,6 @@ DIRECTORY = "ICD-10-CM"
 
 [MS-LTC-DRG]
 DESCRIPTION = "MS-LTC-DRG Final Rule Data"
-FORMAT = "To do"
 HEADER = ["drg", "title", "relative_weight", "gmlos", "sso"]
 DIRECTORY = "MS-LTC-DRG"
 
@@ -29,7 +31,14 @@ DIRECTORY = "MS-LTC-DRG"
     title = "DRG Title"
     rw = "Relative Weight"
     gmlos = "Geometric Average Length of Stay"
-    sso = "Short-Stay Outlier (SSO) Threadshold"
+    sso = "Short-Stay Outlier (SSO) Threshold"
+
+    [MS-LTC-DRG.DATATYPES]
+    drg = "Int"
+    title = "String"
+    rw = "Float"
+    gmlos = "Float"
+    sso = "Float"
 
     [MS-LTC-DRG.2016]
     # This is the Correction Notice file
