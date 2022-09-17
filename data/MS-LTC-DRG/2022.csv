@@ -1,0 +1,768 @@
+drg,title,relative_weight,gmlos,sso
+1,Heart transplant or implant of heart assist system with MCC,0.0,0.0,0.0
+2,Heart transplant or implant of heart assist system without MCC,0.0,0.0,0.0
+3,"ECMO or tracheostomy with MV >96 hours or principal diagnosis except face, mouth and neck with major O.R. procedures",3.6814,56.2,46.8
+4,"Tracheostomy with MV >96 hours or principal diagnosis except face, mouth and neck without major O.R. procedures",2.7971,43.5,36.3
+5,Liver transplant with MCC or intestinal transplant,0.0,0.0,0.0
+6,Liver transplant without MCC,0.0,0.0,0.0
+7,Lung transplant,0.0,0.0,0.0
+8,Simultaneous pancreas and kidney transplant,0.0,0.0,0.0
+10,Pancreas transplant,0.0,0.0,0.0
+11,"Tracheostomy for face, mouth and neck diagnoses or laryngectomy with MCC",0.6374,19.3,16.1
+12,"Tracheostomy for face, mouth and neck diagnoses or laryngectomy with CC",0.6374,19.3,16.1
+13,"Tracheostomy for face, mouth and neck diagnoses or laryngectomy without CC/MCC",0.6374,19.3,16.1
+14,Allogeneic bone marrow transplant,0.5193,16.9,14.1
+16,Autologous bone marrow transplant with CC/MCC,0.5193,16.9,14.1
+17,Autologous bone marrow transplant without CC/MCC,0.5193,16.9,14.1
+18,Chimeric antigen receptor (CAR) T-cell and other immunotherapies,0.5193,16.9,14.1
+19,Simultaneous pancreas and kidney transplant with hemodialysis,0.0,0.0,0.0
+20,Intracranial vascular procedures with principal diagnosis hemorrhage with MCC,0.9242,24.9,20.8
+21,Intracranial vascular procedures with principal diagnosis hemorrhage with CC,0.9242,24.9,20.8
+22,Intracranial vascular procedures with principal diagnosis hemorrhage without CC/MCC,0.9242,24.9,20.8
+23,Craniotomy with major device implant or acute complex CNS principal diagnosis with MCC or chemotherapy implant or epilepsy with neurostimulator,0.6374,19.3,16.1
+24,Craniotomy with major device implant or acute complex CNS principal diagnosis without MCC,0.6374,19.3,16.1
+25,Craniotomy and endovascular intracranial procedures with MCC,1.7482,36.8,30.7
+26,Craniotomy and endovascular intracranial procedures with CC,0.6374,19.3,16.1
+27,Craniotomy and endovascular intracranial procedures without CC/MCC,0.6374,19.3,16.1
+28,Spinal procedures with MCC,1.7482,36.8,30.7
+29,Spinal procedures with CC or spinal neurostimulators,0.9227,24.8,20.7
+30,Spinal procedures without CC/MCC,0.9227,24.8,20.7
+31,Ventricular shunt procedures with MCC,0.8548,23.6,19.7
+32,Ventricular shunt procedures with CC,0.8548,23.6,19.7
+33,Ventricular shunt procedures without CC/MCC,0.8548,23.6,19.7
+34,Carotid artery stent procedures with MCC,1.7482,36.8,30.7
+35,Carotid artery stent procedures with CC,1.7482,36.8,30.7
+36,Carotid artery stent procedures without CC/MCC,1.7482,36.8,30.7
+37,Extracranial procedures with MCC,1.7482,36.8,30.7
+38,Extracranial procedures with CC,1.7482,36.8,30.7
+39,Extracranial procedures without CC/MCC,1.7482,36.8,30.7
+40,"Peripheral, cranial nerve and other nervous system procedures with MCC",1.3933,34.6,29.0
+41,"Peripheral, cranial nerve and other nervous system procedures with CC or peripheral neurostimulator",0.6374,19.3,16.1
+42,"Peripheral, cranial nerve and other nervous system procedures without CC/MCC",0.6374,19.3,16.1
+52,Spinal disorders and injuries with CC/MCC,0.983,33.0,27.5
+53,Spinal disorders and injuries without CC/MCC,0.983,33.0,27.5
+54,Nervous system neoplasms with MCC,1.0152,25.2,21.0
+55,Nervous system neoplasms without MCC,0.6374,19.3,16.1
+56,Degenerative nervous system disorders with MCC,0.8429,24.0,20.0
+57,Degenerative nervous system disorders without MCC,0.6677,22.5,18.8
+58,Multiple sclerosis and cerebellar ataxia with MCC,0.6374,19.3,16.1
+59,Multiple sclerosis and cerebellar ataxia with CC,0.6374,19.3,16.1
+60,Multiple sclerosis and cerebellar ataxia without CC/MCC,0.6374,19.3,16.1
+61,"Ischemic stroke, precerebral occlusion or transient ischemia with thrombolytic agent with MCC",0.8732,23.4,19.5
+62,"Ischemic stroke, precerebral occlusion or transient ischemia with thrombolytic agent with CC",0.7303,20.1,16.8
+63,"Ischemic stroke, precerebral occlusion or transient ischemia with thrombolytic agent without CC/MCC",0.6374,19.3,16.1
+64,Intracranial hemorrhage or cerebral infarction with MCC,0.9242,24.9,20.8
+65,Intracranial hemorrhage or cerebral infarction with CC or tPA in 24 hours,0.5193,16.9,14.1
+66,Intracranial hemorrhage or cerebral infarction without CC/MCC,0.5193,16.9,14.1
+67,Nonspecific CVA and precerebral occlusion without infarction with MCC,0.6374,19.3,16.1
+68,Nonspecific CVA and precerebral occlusion without infarction without MCC,0.6374,19.3,16.1
+69,Transient ischemia without thrombolytic,0.5193,16.9,14.1
+70,Nonspecific cerebrovascular disorders with MCC,0.8732,23.4,19.5
+71,Nonspecific cerebrovascular disorders with CC,0.7303,20.1,16.8
+72,Nonspecific cerebrovascular disorders without CC/MCC,0.6374,19.3,16.1
+73,Cranial and peripheral nerve disorders with MCC,0.9227,24.8,20.7
+74,Cranial and peripheral nerve disorders without MCC,0.9227,24.8,20.7
+75,Viral meningitis with CC/MCC,0.6374,19.3,16.1
+76,Viral meningitis without CC/MCC,0.6374,19.3,16.1
+77,Hypertensive encephalopathy with MCC,0.6374,19.3,16.1
+78,Hypertensive encephalopathy with CC,0.6374,19.3,16.1
+79,Hypertensive encephalopathy without CC/MCC,0.6374,19.3,16.1
+80,Nontraumatic stupor and coma with MCC,1.7482,36.8,30.7
+81,Nontraumatic stupor and coma without MCC,0.5193,16.9,14.1
+82,Traumatic stupor and coma >1 hour with MCC,1.0269,28.9,24.1
+83,Traumatic stupor and coma >1 hour with CC,0.753,23.6,19.7
+84,Traumatic stupor and coma >1 hour without CC/MCC,0.5193,16.9,14.1
+85,Traumatic stupor and coma <1 hour with MCC,1.0256,25.7,21.4
+86,Traumatic stupor and coma <1 hour with CC,0.6374,19.3,16.1
+87,Traumatic stupor and coma <1 hour without CC/MCC,0.6374,19.3,16.1
+88,Concussion with MCC,1.7482,36.8,30.7
+89,Concussion with CC,0.6374,19.3,16.1
+90,Concussion without CC/MCC,0.6374,19.3,16.1
+91,Other disorders of nervous system with MCC,0.8704,23.3,19.4
+92,Other disorders of nervous system with CC,0.8704,23.3,19.4
+93,Other disorders of nervous system without CC/MCC,0.8704,23.3,19.4
+94,Bacterial and tuberculous infections of nervous system with MCC,1.0664,27.2,22.7
+95,Bacterial and tuberculous infections of nervous system with CC,0.7534,20.5,17.1
+96,Bacterial and tuberculous infections of nervous system without CC/MCC,0.5193,16.9,14.1
+97,Non-bacterial infection of nervous system except viral meningitis with MCC,0.9601,21.9,18.3
+98,Non-bacterial infection of nervous system except viral meningitis with CC,0.8548,23.6,19.7
+99,Non-bacterial infection of nervous system except viral meningitis without CC/MCC,0.8548,23.6,19.7
+100,Seizures with MCC,0.7234,21.5,17.9
+101,Seizures without MCC,0.6374,19.3,16.1
+102,Headaches with MCC,0.6374,19.3,16.1
+103,Headaches without MCC,0.6374,19.3,16.1
+113,Orbital procedures with CC/MCC,0.6374,19.3,16.1
+114,Orbital procedures without CC/MCC,0.6374,19.3,16.1
+115,Extraocular procedures except orbit,0.6374,19.3,16.1
+116,Intraocular procedures with CC/MCC,0.6374,19.3,16.1
+117,Intraocular procedures without CC/MCC,0.6374,19.3,16.1
+121,Acute major eye infections with CC/MCC,1.0152,25.2,21.0
+122,Acute major eye infections without CC/MCC,0.6374,19.3,16.1
+123,Neurological eye disorders,0.6374,19.3,16.1
+124,Other disorders of the eye with MCC,0.6374,19.3,16.1
+125,Other disorders of the eye without MCC,0.6374,19.3,16.1
+135,Sinus and mastoid procedures with CC/MCC,0.6374,19.3,16.1
+136,Sinus and mastoid procedures without CC/MCC,0.6374,19.3,16.1
+137,Mouth procedures with CC/MCC,0.6374,19.3,16.1
+138,Mouth procedures without CC/MCC,0.6374,19.3,16.1
+139,Salivary gland procedures,0.5193,16.9,14.1
+140,Major head and neck procedures with MCC,0.5193,16.9,14.1
+141,Major head and neck procedures with CC,0.5193,16.9,14.1
+142,Major head and neck procedures without CC/MCC,0.5193,16.9,14.1
+143,"Other ear, nose, mouth and throat O.R. procedures with MCC",0.6374,19.3,16.1
+144,"Other ear, nose, mouth and throat O.R. procedures with CC",0.6374,19.3,16.1
+145,"Other ear, nose, mouth and throat O.R. procedures without CC/MCC",0.6374,19.3,16.1
+146,"Ear, nose, mouth and throat malignancy with MCC",0.8548,23.6,19.7
+147,"Ear, nose, mouth and throat malignancy with CC",0.6374,19.3,16.1
+148,"Ear, nose, mouth and throat malignancy without CC/MCC",0.5193,16.9,14.1
+149,Dysequilibrium,0.5193,16.9,14.1
+150,Epistaxis with MCC,0.8548,23.6,19.7
+151,Epistaxis without MCC,0.8548,23.6,19.7
+152,Otitis media and URI with MCC,0.8548,23.6,19.7
+153,Otitis media and URI without MCC,0.6374,19.3,16.1
+154,"Other ear, nose, mouth and throat diagnoses with MCC",1.7482,36.8,30.7
+155,"Other ear, nose, mouth and throat diagnoses with CC",0.6374,19.3,16.1
+156,"Other ear, nose, mouth and throat diagnoses without CC/MCC",0.6374,19.3,16.1
+157,Dental and oral diseases with MCC,1.0152,25.2,21.0
+158,Dental and oral diseases with CC,0.8548,23.6,19.7
+159,Dental and oral diseases without CC/MCC,0.6374,19.3,16.1
+163,Major chest procedures with MCC,2.8905,45.2,37.7
+164,Major chest procedures with CC,0.8548,23.6,19.7
+165,Major chest procedures without CC/MCC,0.8548,23.6,19.7
+166,Other respiratory system O.R. procedures with MCC,2.3481,40.0,33.3
+167,Other respiratory system O.R. procedures with CC,1.4259,29.1,24.3
+168,Other respiratory system O.R. procedures without CC/MCC,1.4259,29.1,24.3
+175,Pulmonary embolism with MCC or acute cor pulmonale,0.7247,20.6,17.2
+176,Pulmonary embolism without MCC,0.7247,20.6,17.2
+177,Respiratory infections and inflammations with MCC,0.8328,21.7,18.0
+178,Respiratory infections and inflammations with CC,0.5978,18.6,15.5
+179,Respiratory infections and inflammations without CC/MCC,0.5978,18.6,15.5
+180,Respiratory neoplasms with MCC,0.8548,23.6,19.7
+181,Respiratory neoplasms with CC,0.5193,16.9,14.1
+182,Respiratory neoplasms without CC/MCC,0.5193,16.9,14.1
+183,Major chest trauma with MCC,0.6374,19.3,16.1
+184,Major chest trauma with CC,0.6374,19.3,16.1
+185,Major chest trauma without CC/MCC,0.6374,19.3,16.1
+186,Pleural effusion with MCC,0.8205,20.6,17.2
+187,Pleural effusion with CC,0.6374,19.3,16.1
+188,Pleural effusion without CC/MCC,0.6374,19.3,16.1
+189,Pulmonary edema and respiratory failure,0.9448,21.3,17.8
+190,Chronic obstructive pulmonary disease with MCC,0.7301,18.9,15.8
+191,Chronic obstructive pulmonary disease with CC,0.6565,16.3,13.6
+192,Chronic obstructive pulmonary disease without CC/MCC,0.6565,16.3,13.6
+193,Simple pneumonia and pleurisy with MCC,0.7067,19.0,15.8
+194,Simple pneumonia and pleurisy with CC,0.6158,17.9,14.9
+195,Simple pneumonia and pleurisy without CC/MCC,0.5193,16.9,14.1
+196,Interstitial lung disease with MCC,0.6374,19.3,16.1
+197,Interstitial lung disease with CC,0.5193,16.9,14.1
+198,Interstitial lung disease without CC/MCC,0.5193,16.9,14.1
+199,Pneumothorax with MCC,0.5944,17.9,14.9
+200,Pneumothorax with CC,0.5944,17.9,14.9
+201,Pneumothorax without CC/MCC,0.5944,17.9,14.9
+202,Bronchitis and asthma with CC/MCC,1.0152,25.2,21.0
+203,Bronchitis and asthma without CC/MCC,0.5193,16.9,14.1
+204,Respiratory signs and symptoms,1.7482,36.8,30.7
+205,Other respiratory system diagnoses with MCC,0.91,23.1,19.3
+206,Other respiratory system diagnoses without MCC,0.8548,23.6,19.7
+207,Respiratory system diagnosis with ventilator support >96 hours,1.88,32.0,26.7
+208,Respiratory system diagnosis with ventilator support <=96 hours,1.1402,22.1,18.4
+215,Other heart assist system implant,1.9393,33.8,28.2
+216,Cardiac valve and other major cardiothoracic procedures with cardiac catheterization with MCC,1.9393,33.8,28.2
+217,Cardiac valve and other major cardiothoracic procedures with cardiac catheterization with CC,1.9393,33.8,28.2
+218,Cardiac valve and other major cardiothoracic procedures with cardiac catheterization without CC/MCC,1.9393,33.8,28.2
+219,Cardiac valve and other major cardiothoracic procedures without cardiac catheterization with MCC,1.9393,33.8,28.2
+220,Cardiac valve and other major cardiothoracic procedures without cardiac catheterization with CC,1.9393,33.8,28.2
+221,Cardiac valve and other major cardiothoracic procedures without cardiac catheterization without CC/MCC,1.9393,33.8,28.2
+222,"Cardiac defibrillator implant with cardiac catheterization with AMI, HF or shock with MCC",1.7482,36.8,30.7
+223,"Cardiac defibrillator implant with cardiac catheterization with AMI, HF or shock without MCC",1.7482,36.8,30.7
+224,"Cardiac defibrillator implant with cardiac catheterization without AMI, HF or shock with MCC",1.0152,25.2,21.0
+225,"Cardiac defibrillator implant with cardiac catheterization without AMI, HF or shock without MCC",1.0152,25.2,21.0
+226,Cardiac defibrillator implant without cardiac catheterization with MCC,1.0152,25.2,21.0
+227,Cardiac defibrillator implant without cardiac catheterization without MCC,1.0152,25.2,21.0
+228,Other cardiothoracic procedures with MCC,1.0152,25.2,21.0
+229,Other cardiothoracic procedures without MCC,1.0152,25.2,21.0
+231,Coronary bypass with PTCA with MCC,1.9393,33.8,28.2
+232,Coronary bypass with PTCA without MCC,1.9393,33.8,28.2
+233,Coronary bypass with cardiac catheterization or open ablation with MCC,1.9393,33.8,28.2
+234,Coronary bypass with cardiac catheterization or open ablation without MCC,1.9393,33.8,28.2
+235,Coronary bypass without cardiac catheterization with MCC,1.9393,33.8,28.2
+236,Coronary bypass without cardiac catheterization without MCC,1.9393,33.8,28.2
+239,Amputation for circulatory system disorders except upper limb and toe with MCC,1.8847,39.8,33.2
+240,Amputation for circulatory system disorders except upper limb and toe with CC,1.7482,36.8,30.7
+241,Amputation for circulatory system disorders except upper limb and toe without CC/MCC,1.7482,36.8,30.7
+242,Permanent cardiac pacemaker implant with MCC,1.7482,36.8,30.7
+243,Permanent cardiac pacemaker implant with CC,1.0152,25.2,21.0
+244,Permanent cardiac pacemaker implant without CC/MCC,1.0152,25.2,21.0
+245,AICD generator procedures,1.0152,25.2,21.0
+246,Percutaneous cardiovascular procedures with drug-eluting stent with MCC or 4 arteries or stents,1.7482,36.8,30.7
+247,Percutaneous cardiovascular procedures with drug-eluting stent without MCC,1.7482,36.8,30.7
+248,Percutaneous cardiovascular procedures with non-drug-eluting stent with MCC or 4 arteries or stents,1.7482,36.8,30.7
+249,Percutaneous cardiovascular procedures with non-drug-eluting stent without MCC,1.7482,36.8,30.7
+250,Percutaneous cardiovascular procedures without coronary artery stent with MCC,1.7482,36.8,30.7
+251,Percutaneous cardiovascular procedures without coronary artery stent without MCC,1.7482,36.8,30.7
+252,Other vascular procedures with MCC,1.9393,33.8,28.2
+253,Other vascular procedures with CC,1.9393,33.8,28.2
+254,Other vascular procedures without CC/MCC,1.9393,33.8,28.2
+255,Upper limb and toe amputation for circulatory system disorders with MCC,1.7482,36.8,30.7
+256,Upper limb and toe amputation for circulatory system disorders with CC,1.7482,36.8,30.7
+257,Upper limb and toe amputation for circulatory system disorders without CC/MCC,1.7482,36.8,30.7
+258,Cardiac pacemaker device replacement with MCC,1.0152,25.2,21.0
+259,Cardiac pacemaker device replacement without MCC,1.0152,25.2,21.0
+260,Cardiac pacemaker revision except device replacement with MCC,1.7482,36.8,30.7
+261,Cardiac pacemaker revision except device replacement with CC,1.7482,36.8,30.7
+262,Cardiac pacemaker revision except device replacement without CC/MCC,1.0152,25.2,21.0
+263,Vein ligation and stripping,1.3506,32.1,26.8
+264,Other circulatory system O.R. procedures,1.3506,32.1,26.8
+265,AICD lead procedures,1.0152,25.2,21.0
+266,Endovascular cardiac valve replacement and supplement procedures with MCC,1.3506,32.1,26.8
+267,Endovascular cardiac valve replacement and supplement procedures without MCC,1.3506,32.1,26.8
+268,Aortic and heart assist procedures except pulsation balloon with MCC,0.6374,19.3,16.1
+269,Aortic and heart assist procedures except pulsation balloon without MCC,0.6374,19.3,16.1
+270,Other major cardiovascular procedures with MCC,1.7482,36.8,30.7
+271,Other major cardiovascular procedures with CC,1.0152,25.2,21.0
+272,Other major cardiovascular procedures without CC/MCC,1.0152,25.2,21.0
+273,Percutaneous and other intracardiac procedures with MCC,1.0152,25.2,21.0
+274,Percutaneous and other intracardiac procedures without MCC,1.0152,25.2,21.0
+280,"Acute myocardial infarction, discharged alive with MCC",0.8997,23.4,19.5
+281,"Acute myocardial infarction, discharged alive with CC",0.5193,16.9,14.1
+282,"Acute myocardial infarction, discharged alive without CC/MCC",0.5193,16.9,14.1
+283,"Acute myocardial infarction, expired with MCC",0.8942,17.5,14.6
+284,"Acute myocardial infarction, expired with CC",0.5193,16.9,14.1
+285,"Acute myocardial infarction, expired without CC/MCC",0.5193,16.9,14.1
+286,"Circulatory disorders except AMI, with cardiac catheterization with MCC",1.7482,36.8,30.7
+287,"Circulatory disorders except AMI, with cardiac catheterization without MCC",1.0152,25.2,21.0
+288,Acute and subacute endocarditis with MCC,1.1433,25.5,21.3
+289,Acute and subacute endocarditis with CC,0.7801,23.5,19.6
+290,Acute and subacute endocarditis without CC/MCC,0.7801,23.5,19.6
+291,Heart failure and shock with MCC,0.8559,21.3,17.8
+292,Heart failure and shock with CC,0.5865,18.2,15.0
+293,Heart failure and shock without CC/MCC,0.5865,18.2,15.0
+294,Deep vein thrombophlebitis with CC/MCC,0.8548,23.6,19.7
+295,Deep vein thrombophlebitis without CC/MCC,0.8548,23.6,19.7
+296,"Cardiac arrest, unexplained with MCC",0.5193,16.9,14.1
+297,"Cardiac arrest, unexplained with CC",0.5193,16.9,14.1
+298,"Cardiac arrest, unexplained without CC/MCC",0.5193,16.9,14.1
+299,Peripheral vascular disorders with MCC,0.8461,22.6,18.8
+300,Peripheral vascular disorders with CC,0.4916,18.6,15.5
+301,Peripheral vascular disorders without CC/MCC,0.4916,18.6,15.5
+302,Atherosclerosis with MCC,1.0076,24.8,20.7
+303,Atherosclerosis without MCC,0.6374,19.3,16.1
+304,Hypertension with MCC,1.7482,36.8,30.7
+305,Hypertension without MCC,1.0152,25.2,21.0
+306,Cardiac congenital and valvular disorders with MCC,0.8363,22.5,18.8
+307,Cardiac congenital and valvular disorders without MCC,0.5193,16.9,14.1
+308,Cardiac arrhythmia and conduction disorders with MCC,0.7024,19.7,16.4
+309,Cardiac arrhythmia and conduction disorders with CC,0.7024,19.7,16.4
+310,Cardiac arrhythmia and conduction disorders without CC/MCC,0.5193,16.9,14.1
+311,Angina pectoris,0.5193,16.9,14.1
+312,Syncope and collapse,1.0152,25.2,21.0
+313,Chest pain,0.5193,16.9,14.1
+314,Other circulatory system diagnoses with MCC,1.0665,24.7,20.6
+315,Other circulatory system diagnoses with CC,0.6321,20.3,16.9
+316,Other circulatory system diagnoses without CC/MCC,0.6321,20.3,16.9
+319,Other endovascular cardiac valve procedures with MCC,1.7482,36.8,30.7
+320,Other endovascular cardiac valve procedures without MCC,1.7482,36.8,30.7
+326,"Stomach, esophageal and duodenal procedures with MCC",1.7482,36.8,30.7
+327,"Stomach, esophageal and duodenal procedures with CC",1.0152,25.2,21.0
+328,"Stomach, esophageal and duodenal procedures without CC/MCC",0.5193,16.9,14.1
+329,Major small and large bowel procedures with MCC,1.7482,36.8,30.7
+330,Major small and large bowel procedures with CC,1.7482,36.8,30.7
+331,Major small and large bowel procedures without CC/MCC,0.5193,16.9,14.1
+332,Rectal resection with MCC,0.6142,18.9,15.8
+333,Rectal resection with CC,0.6142,18.9,15.8
+334,Rectal resection without CC/MCC,0.5193,16.9,14.1
+335,Peritoneal adhesiolysis with MCC,1.7482,36.8,30.7
+336,Peritoneal adhesiolysis with CC,0.6142,18.9,15.8
+337,Peritoneal adhesiolysis without CC/MCC,0.5193,16.9,14.1
+338,Appendectomy with complicated principal diagnosis with MCC,0.9479,23.3,19.4
+339,Appendectomy with complicated principal diagnosis with CC,0.6142,18.9,15.8
+340,Appendectomy with complicated principal diagnosis without CC/MCC,0.5193,16.9,14.1
+341,Appendectomy without complicated principal diagnosis with MCC,0.8548,23.6,19.7
+342,Appendectomy without complicated principal diagnosis with CC,0.8548,23.6,19.7
+343,Appendectomy without complicated principal diagnosis without CC/MCC,0.8548,23.6,19.7
+344,Minor small and large bowel procedures with MCC,0.8548,23.6,19.7
+345,Minor small and large bowel procedures with CC,0.6142,18.9,15.8
+346,Minor small and large bowel procedures without CC/MCC,0.5193,16.9,14.1
+347,Anal and stomal procedures with MCC,0.6142,18.9,15.8
+348,Anal and stomal procedures with CC,0.6142,18.9,15.8
+349,Anal and stomal procedures without CC/MCC,0.5193,16.9,14.1
+350,Inguinal and femoral hernia procedures with MCC,0.9479,23.3,19.4
+351,Inguinal and femoral hernia procedures with CC,0.6142,18.9,15.8
+352,Inguinal and femoral hernia procedures without CC/MCC,0.5193,16.9,14.1
+353,Hernia procedures except inguinal and femoral with MCC,1.0152,25.2,21.0
+354,Hernia procedures except inguinal and femoral with CC,0.6142,18.9,15.8
+355,Hernia procedures except inguinal and femoral without CC/MCC,0.5193,16.9,14.1
+356,Other digestive system O.R. procedures with MCC,1.6086,35.2,29.3
+357,Other digestive system O.R. procedures with CC,0.8548,23.6,19.7
+358,Other digestive system O.R. procedures without CC/MCC,0.8548,23.6,19.7
+368,Major esophageal disorders with MCC,1.0152,25.2,21.0
+369,Major esophageal disorders with CC,0.5193,16.9,14.1
+370,Major esophageal disorders without CC/MCC,0.5193,16.9,14.1
+371,Major gastrointestinal disorders and peritoneal infections with MCC,0.9479,23.3,19.4
+372,Major gastrointestinal disorders and peritoneal infections with CC,0.6142,18.9,15.8
+373,Major gastrointestinal disorders and peritoneal infections without CC/MCC,0.5193,16.9,14.1
+374,Digestive malignancy with MCC,1.0152,25.2,21.0
+375,Digestive malignancy with CC,0.6374,19.3,16.1
+376,Digestive malignancy without CC/MCC,0.6374,19.3,16.1
+377,Gastrointestinal hemorrhage with MCC,0.8246,20.2,16.8
+378,Gastrointestinal hemorrhage with CC,0.6374,19.3,16.1
+379,Gastrointestinal hemorrhage without CC/MCC,0.6374,19.3,16.1
+380,Complicated peptic ulcer with MCC,1.012,27.5,22.9
+381,Complicated peptic ulcer with CC,1.012,27.5,22.9
+382,Complicated peptic ulcer without CC/MCC,1.012,27.5,22.9
+383,Uncomplicated peptic ulcer with MCC,0.5193,16.9,14.1
+384,Uncomplicated peptic ulcer without MCC,0.5193,16.9,14.1
+385,Inflammatory bowel disease with MCC,0.9176,23.2,19.3
+386,Inflammatory bowel disease with CC,0.9176,23.2,19.3
+387,Inflammatory bowel disease without CC/MCC,0.9176,23.2,19.3
+388,Gastrointestinal obstruction with MCC,0.9436,22.8,19.0
+389,Gastrointestinal obstruction with CC,0.6979,20.6,17.2
+390,Gastrointestinal obstruction without CC/MCC,0.6979,20.6,17.2
+391,"Esophagitis, gastroenteritis and miscellaneous digestive disorders with MCC",0.8619,22.7,18.9
+392,"Esophagitis, gastroenteritis and miscellaneous digestive disorders without MCC",0.6622,19.9,16.6
+393,Other digestive system diagnoses with MCC,1.1208,26.7,22.3
+394,Other digestive system diagnoses with CC,0.8387,22.5,18.8
+395,Other digestive system diagnoses without CC/MCC,0.8387,22.5,18.8
+405,"Pancreas, liver and shunt procedures with MCC",1.7482,36.8,30.7
+406,"Pancreas, liver and shunt procedures with CC",0.6142,18.9,15.8
+407,"Pancreas, liver and shunt procedures without CC/MCC",0.5193,16.9,14.1
+408,Biliary tract procedures except only cholecystectomy with or without C.D.E. with MCC,0.8548,23.6,19.7
+409,Biliary tract procedures except only cholecystectomy with or without C.D.E. with CC,0.6142,18.9,15.8
+410,Biliary tract procedures except only cholecystectomy with or without C.D.E. without CC/MCC,0.5193,16.9,14.1
+411,Cholecystectomy with C.D.E. with MCC,0.8548,23.6,19.7
+412,Cholecystectomy with C.D.E. with CC,0.6142,18.9,15.8
+413,Cholecystectomy with C.D.E. without CC/MCC,0.5193,16.9,14.1
+414,Cholecystectomy except by laparoscope without C.D.E. with MCC,0.6374,19.3,16.1
+415,Cholecystectomy except by laparoscope without C.D.E. with CC,0.6142,18.9,15.8
+416,Cholecystectomy except by laparoscope without C.D.E. without CC/MCC,0.5193,16.9,14.1
+417,Laparoscopic cholecystectomy without C.D.E. with MCC,1.7482,36.8,30.7
+418,Laparoscopic cholecystectomy without C.D.E. with CC,0.5193,16.9,14.1
+419,Laparoscopic cholecystectomy without C.D.E. without CC/MCC,0.5193,16.9,14.1
+420,Hepatobiliary diagnostic procedures with MCC,1.0152,25.2,21.0
+421,Hepatobiliary diagnostic procedures with CC,1.0152,25.2,21.0
+422,Hepatobiliary diagnostic procedures without CC/MCC,1.0152,25.2,21.0
+423,Other hepatobiliary or pancreas O.R. procedures with MCC,1.7482,36.8,30.7
+424,Other hepatobiliary or pancreas O.R. procedures with CC,0.5193,16.9,14.1
+425,Other hepatobiliary or pancreas O.R. procedures without CC/MCC,0.5193,16.9,14.1
+432,Cirrhosis and alcoholic hepatitis with MCC,0.8313,20.9,17.4
+433,Cirrhosis and alcoholic hepatitis with CC,0.8313,20.9,17.4
+434,Cirrhosis and alcoholic hepatitis without CC/MCC,0.8313,20.9,17.4
+435,Malignancy of hepatobiliary system or pancreas with MCC,0.8548,23.6,19.7
+436,Malignancy of hepatobiliary system or pancreas with CC,0.5193,16.9,14.1
+437,Malignancy of hepatobiliary system or pancreas without CC/MCC,0.5193,16.9,14.1
+438,Disorders of pancreas except malignancy with MCC,1.117,25.3,21.1
+439,Disorders of pancreas except malignancy with CC,0.8548,23.6,19.7
+440,Disorders of pancreas except malignancy without CC/MCC,0.5193,16.9,14.1
+441,"Disorders of liver except malignancy, cirrhosis or alcoholic hepatitis with MCC",0.8511,21.7,18.1
+442,"Disorders of liver except malignancy, cirrhosis or alcoholic hepatitis with CC",0.6374,19.3,16.1
+443,"Disorders of liver except malignancy, cirrhosis or alcoholic hepatitis without CC/MCC",0.5193,16.9,14.1
+444,Disorders of the biliary tract with MCC,0.8138,22.3,18.6
+445,Disorders of the biliary tract with CC,0.6187,20.2,16.8
+446,Disorders of the biliary tract without CC/MCC,0.5193,16.9,14.1
+453,Combined anterior and posterior spinal fusion with MCC,1.7482,36.8,30.7
+454,Combined anterior and posterior spinal fusion with CC,0.8857,24.8,20.7
+455,Combined anterior and posterior spinal fusion without CC/MCC,0.8857,24.8,20.7
+456,"Spinal fusion except cervical with spinal curvature, malignancy, infection or extensive fusions with MCC",1.0136,24.5,20.4
+457,"Spinal fusion except cervical with spinal curvature, malignancy, infection or extensive fusions with CC",0.8857,24.8,20.7
+458,"Spinal fusion except cervical with spinal curvature, malignancy, infection or extensive fusions without CC/MCC",0.8857,24.8,20.7
+459,Spinal fusion except cervical with MCC,1.0136,24.5,20.4
+460,Spinal fusion except cervical without MCC,0.8857,24.8,20.7
+461,Bilateral or multiple major joint procedures of lower extremity with MCC,1.0136,24.5,20.4
+462,Bilateral or multiple major joint procedures of lower extremity without MCC,0.8857,24.8,20.7
+463,Wound debridement and skin graft except hand for musculoskeletal and connective tissue disorders with MCC,1.5554,37.7,31.4
+464,Wound debridement and skin graft except hand for musculoskeletal and connective tissue disorders with CC,1.1761,33.2,27.7
+465,Wound debridement and skin graft except hand for musculoskeletal and connective tissue disorders without CC/MCC,0.6374,19.3,16.1
+466,Revision of hip or knee replacement with MCC,1.7482,36.8,30.7
+467,Revision of hip or knee replacement with CC,0.8857,24.8,20.7
+468,Revision of hip or knee replacement without CC/MCC,0.8857,24.8,20.7
+469,Major hip and knee joint replacement or reattachment of lower extremity with MCC or total ankle replacement,1.6613,40.4,33.7
+470,Major hip and knee joint replacement or reattachment of lower extremity without MCC,0.8857,24.8,20.7
+471,Cervical spinal fusion with MCC,1.0136,24.5,20.4
+472,Cervical spinal fusion with CC,0.8857,24.8,20.7
+473,Cervical spinal fusion without CC/MCC,0.8857,24.8,20.7
+474,Amputation for musculoskeletal system and connective tissue disorders with MCC,1.6613,40.4,33.7
+475,Amputation for musculoskeletal system and connective tissue disorders with CC,1.6613,40.4,33.7
+476,Amputation for musculoskeletal system and connective tissue disorders without CC/MCC,0.8548,23.6,19.7
+477,Biopsies of musculoskeletal system and connective tissue with MCC,1.7482,36.8,30.7
+478,Biopsies of musculoskeletal system and connective tissue with CC,0.8548,23.6,19.7
+479,Biopsies of musculoskeletal system and connective tissue without CC/MCC,0.8548,23.6,19.7
+480,Hip and femur procedures except major joint with MCC,1.7482,36.8,30.7
+481,Hip and femur procedures except major joint with CC,1.7482,36.8,30.7
+482,Hip and femur procedures except major joint without CC/MCC,1.7482,36.8,30.7
+483,Major joint or limb reattachment procedures of upper extremities,0.6374,19.3,16.1
+485,Knee procedures with principal diagnosis of infection with MCC,1.0152,25.2,21.0
+486,Knee procedures with principal diagnosis of infection with CC,1.0152,25.2,21.0
+487,Knee procedures with principal diagnosis of infection without CC/MCC,1.0152,25.2,21.0
+488,Knee procedures without principal diagnosis of infection with CC/MCC,1.7482,36.8,30.7
+489,Knee procedures without principal diagnosis of infection without CC/MCC,1.7482,36.8,30.7
+492,"Lower extremity and humerus procedures except hip, foot and femur with MCC",1.7482,36.8,30.7
+493,"Lower extremity and humerus procedures except hip, foot and femur with CC",0.8548,23.6,19.7
+494,"Lower extremity and humerus procedures except hip, foot and femur without CC/MCC",0.8548,23.6,19.7
+495,Local excision and removal of internal fixation devices except hip and femur with MCC,1.7482,36.8,30.7
+496,Local excision and removal of internal fixation devices except hip and femur with CC,0.8548,23.6,19.7
+497,Local excision and removal of internal fixation devices except hip and femur without CC/MCC,0.8548,23.6,19.7
+498,Local excision and removal of internal fixation devices of hip and femur with CC/MCC,1.7482,36.8,30.7
+499,Local excision and removal of internal fixation devices of hip and femur without CC/MCC,1.7482,36.8,30.7
+500,Soft tissue procedures with MCC,1.2701,34.3,28.6
+501,Soft tissue procedures with CC,1.2701,34.3,28.6
+502,Soft tissue procedures without CC/MCC,0.5193,16.9,14.1
+503,Foot procedures with MCC,1.0152,25.2,21.0
+504,Foot procedures with CC,1.0152,25.2,21.0
+505,Foot procedures without CC/MCC,1.0152,25.2,21.0
+506,Major thumb or joint procedures,0.5193,16.9,14.1
+507,Major shoulder or elbow joint procedures with CC/MCC,0.5193,16.9,14.1
+508,Major shoulder or elbow joint procedures without CC/MCC,0.5193,16.9,14.1
+509,Arthroscopy,0.5193,16.9,14.1
+510,"Shoulder, elbow or forearm procedures, except major joint procedures with MCC",0.6374,19.3,16.1
+511,"Shoulder, elbow or forearm procedures, except major joint procedures with CC",0.6374,19.3,16.1
+512,"Shoulder, elbow or forearm procedures, except major joint procedures without CC/MCC",0.6374,19.3,16.1
+513,"Hand or wrist procedures, except major thumb or joint procedures with CC/MCC",0.8548,23.6,19.7
+514,"Hand or wrist procedures, except major thumb or joint procedures without CC/MCC",0.8548,23.6,19.7
+515,Other musculoskeletal system and connective tissue O.R. procedures with MCC,1.4226,31.7,26.4
+516,Other musculoskeletal system and connective tissue O.R. procedures with CC,0.6374,19.3,16.1
+517,Other musculoskeletal system and connective tissue O.R. procedures without CC/MCC,0.6374,19.3,16.1
+518,Back and neck procedures except spinal fusion with MCC or disc device or neurostimulator,1.7482,36.8,30.7
+519,Back and neck procedures except spinal fusion with CC,0.8857,24.8,20.7
+520,Back and neck procedures except spinal fusion without CC/MCC,0.8857,24.8,20.7
+521,Hip replacement with principal diagnosis of hip fracture with MCC,0.8857,24.8,20.7
+522,Hip replacement with principal diagnosis of hip fracture without MCC,0.8857,24.8,20.7
+533,Fractures of femur with MCC,1.0152,25.2,21.0
+534,Fractures of femur without MCC,1.0152,25.2,21.0
+535,Fractures of hip and pelvis with MCC,1.0152,25.2,21.0
+536,Fractures of hip and pelvis without MCC,0.5193,16.9,14.1
+537,"Sprains, strains, and dislocations of hip, pelvis and thigh with CC/MCC",1.0152,25.2,21.0
+538,"Sprains, strains, and dislocations of hip, pelvis and thigh without CC/MCC",0.5193,16.9,14.1
+539,Osteomyelitis with MCC,1.0867,29.2,24.3
+540,Osteomyelitis with CC,0.853,26.7,22.3
+541,Osteomyelitis without CC/MCC,0.6374,19.3,16.1
+542,Pathological fractures and musculoskeletal and connective tissue malignancy with MCC,1.0152,25.2,21.0
+543,Pathological fractures and musculoskeletal and connective tissue malignancy with CC,0.5193,16.9,14.1
+544,Pathological fractures and musculoskeletal and connective tissue malignancy without CC/MCC,0.5193,16.9,14.1
+545,Connective tissue disorders with MCC,1.0152,25.2,21.0
+546,Connective tissue disorders with CC,0.5193,16.9,14.1
+547,Connective tissue disorders without CC/MCC,0.5193,16.9,14.1
+548,Septic arthritis with MCC,1.0021,25.1,20.9
+549,Septic arthritis with CC,0.7236,23.3,19.4
+550,Septic arthritis without CC/MCC,0.6374,19.3,16.1
+551,Medical back problems with MCC,1.1538,27.7,23.1
+552,Medical back problems without MCC,0.6374,19.3,16.1
+553,Bone diseases and arthropathies with MCC,1.7482,36.8,30.7
+554,Bone diseases and arthropathies without MCC,0.8548,23.6,19.7
+555,Signs and symptoms of musculoskeletal system and connective tissue with MCC,1.0152,25.2,21.0
+556,Signs and symptoms of musculoskeletal system and connective tissue without MCC,0.6374,19.3,16.1
+557,"Tendonitis, myositis and bursitis with MCC",1.0132,26.0,21.7
+558,"Tendonitis, myositis and bursitis without MCC",0.8235,25.7,21.4
+559,"Aftercare, musculoskeletal system and connective tissue with MCC",0.9123,24.5,20.4
+560,"Aftercare, musculoskeletal system and connective tissue with CC",0.755,24.0,20.0
+561,"Aftercare, musculoskeletal system and connective tissue without CC/MCC",0.6374,19.3,16.1
+562,"Fracture, sprain, strain and dislocation except femur, hip, pelvis and thigh with MCC",1.0152,25.2,21.0
+563,"Fracture, sprain, strain and dislocation except femur, hip, pelvis and thigh without MCC",1.0152,25.2,21.0
+564,Other musculoskeletal system and connective tissue diagnoses with MCC,1.0136,24.5,20.4
+565,Other musculoskeletal system and connective tissue diagnoses with CC,0.8857,24.8,20.7
+566,Other musculoskeletal system and connective tissue diagnoses without CC/MCC,0.8857,24.8,20.7
+570,Skin debridement with MCC,1.4158,33.6,28.0
+571,Skin debridement with CC,1.0579,30.8,25.7
+572,Skin debridement without CC/MCC,0.8548,23.6,19.7
+573,Skin graft for skin ulcer or cellulitis with MCC,1.8267,46.0,38.3
+574,Skin graft for skin ulcer or cellulitis with CC,1.7482,36.8,30.7
+575,Skin graft for skin ulcer or cellulitis without CC/MCC,1.0152,25.2,21.0
+576,Skin graft except for skin ulcer or cellulitis with MCC,1.7482,36.8,30.7
+577,Skin graft except for skin ulcer or cellulitis with CC,0.8548,23.6,19.7
+578,Skin graft except for skin ulcer or cellulitis without CC/MCC,0.8548,23.6,19.7
+579,"Other skin, subcutaneous tissue and breast procedures with MCC",1.379,32.8,27.3
+580,"Other skin, subcutaneous tissue and breast procedures with CC",1.172,30.8,25.7
+581,"Other skin, subcutaneous tissue and breast procedures without CC/MCC",0.5193,16.9,14.1
+582,Mastectomy for malignancy with CC/MCC,1.7482,36.8,30.7
+583,Mastectomy for malignancy without CC/MCC,0.6374,19.3,16.1
+584,"Breast biopsy, local excision and other breast procedures with CC/MCC",1.0152,25.2,21.0
+585,"Breast biopsy, local excision and other breast procedures without CC/MCC",1.0152,25.2,21.0
+592,Skin ulcers with MCC,0.968,26.7,22.3
+593,Skin ulcers with CC,0.7203,23.8,19.8
+594,Skin ulcers without CC/MCC,0.7203,23.8,19.8
+595,Major skin disorders with MCC,0.8548,23.6,19.7
+596,Major skin disorders without MCC,0.5193,16.9,14.1
+597,Malignant breast disorders with MCC,0.6374,19.3,16.1
+598,Malignant breast disorders with CC,0.6374,19.3,16.1
+599,Malignant breast disorders without CC/MCC,0.6374,19.3,16.1
+600,Non-malignant breast disorders with CC/MCC,0.8548,23.6,19.7
+601,Non-malignant breast disorders without CC/MCC,0.5193,16.9,14.1
+602,Cellulitis with MCC,0.772,21.2,17.7
+603,Cellulitis without MCC,0.5543,18.1,15.1
+604,"Trauma to the skin, subcutaneous tissue and breast with MCC",0.7795,24.1,20.1
+605,"Trauma to the skin, subcutaneous tissue and breast without MCC",0.6374,19.3,16.1
+606,Minor skin disorders with MCC,1.0203,24.2,20.2
+607,Minor skin disorders without MCC,0.8548,23.6,19.7
+614,Adrenal and pituitary procedures with CC/MCC,0.8548,23.6,19.7
+615,Adrenal and pituitary procedures without CC/MCC,0.8548,23.6,19.7
+616,"Amputation of lower limb for endocrine, nutritional and metabolic disorders with MCC",1.6744,38.0,31.7
+617,"Amputation of lower limb for endocrine, nutritional and metabolic disorders with CC",1.3149,36.4,30.3
+618,"Amputation of lower limb for endocrine, nutritional and metabolic disorders without CC/MCC",1.3149,36.4,30.3
+619,O.R. procedures for obesity with MCC,0.8548,23.6,19.7
+620,O.R. procedures for obesity with CC,0.8548,23.6,19.7
+621,O.R. procedures for obesity without CC/MCC,0.8548,23.6,19.7
+622,"Skin grafts and wound debridement for endocrine, nutritional and metabolic disorders with MCC",1.3612,34.0,28.3
+623,"Skin grafts and wound debridement for endocrine, nutritional and metabolic disorders with CC",1.0435,29.2,24.3
+624,"Skin grafts and wound debridement for endocrine, nutritional and metabolic disorders without CC/MCC",0.8548,23.6,19.7
+625,"Thyroid, parathyroid and thyroglossal procedures with MCC",1.3677,32.1,26.8
+626,"Thyroid, parathyroid and thyroglossal procedures with CC",1.0152,25.2,21.0
+627,"Thyroid, parathyroid and thyroglossal procedures without CC/MCC",0.8387,22.5,18.8
+628,"Other endocrine, nutritional and metabolic O.R. procedures with MCC",1.3677,32.1,26.8
+629,"Other endocrine, nutritional and metabolic O.R. procedures with CC",1.0152,25.2,21.0
+630,"Other endocrine, nutritional and metabolic O.R. procedures without CC/MCC",0.8387,22.5,18.8
+637,Diabetes with MCC,0.9933,25.5,21.3
+638,Diabetes with CC,0.82,22.7,18.9
+639,Diabetes without CC/MCC,0.5193,16.9,14.1
+640,"Miscellaneous disorders of nutrition, metabolism, fluids and electrolytes with MCC",0.917,23.0,19.2
+641,"Miscellaneous disorders of nutrition, metabolism, fluids and electrolytes without MCC",0.6518,19.1,15.9
+642,Inborn and other disorders of metabolism,1.0152,25.2,21.0
+643,Endocrine disorders with MCC,0.8548,23.6,19.7
+644,Endocrine disorders with CC,0.6374,19.3,16.1
+645,Endocrine disorders without CC/MCC,0.6374,19.3,16.1
+650,Kidney transplant with hemodialysis with MCC,0.0,0.0,0.0
+651,Kidney transplant with hemodialysis without MCC,0.0,0.0,0.0
+652,Kidney transplant,0.0,0.0,0.0
+653,Major bladder procedures with MCC,0.8548,23.6,19.7
+654,Major bladder procedures with CC,0.8548,23.6,19.7
+655,Major bladder procedures without CC/MCC,0.8548,23.6,19.7
+656,Kidney and ureter procedures for neoplasm with MCC,1.0152,25.2,21.0
+657,Kidney and ureter procedures for neoplasm with CC,0.8548,23.6,19.7
+658,Kidney and ureter procedures for neoplasm without CC/MCC,0.8548,23.6,19.7
+659,Kidney and ureter procedures for non-neoplasm with MCC,1.7482,36.8,30.7
+660,Kidney and ureter procedures for non-neoplasm with CC,0.8548,23.6,19.7
+661,Kidney and ureter procedures for non-neoplasm without CC/MCC,0.8548,23.6,19.7
+662,Minor bladder procedures with MCC,1.0152,25.2,21.0
+663,Minor bladder procedures with CC,0.8548,23.6,19.7
+664,Minor bladder procedures without CC/MCC,0.8548,23.6,19.7
+665,Prostatectomy with MCC,0.6374,19.3,16.1
+666,Prostatectomy with CC,0.6374,19.3,16.1
+667,Prostatectomy without CC/MCC,0.6374,19.3,16.1
+668,Transurethral procedures with MCC,1.7482,36.8,30.7
+669,Transurethral procedures with CC,1.0152,25.2,21.0
+670,Transurethral procedures without CC/MCC,1.0152,25.2,21.0
+671,Urethral procedures with CC/MCC,0.6374,19.3,16.1
+672,Urethral procedures without CC/MCC,0.6374,19.3,16.1
+673,Other kidney and urinary tract procedures with MCC,1.4245,31.0,25.8
+674,Other kidney and urinary tract procedures with CC,1.057,24.9,20.8
+675,Other kidney and urinary tract procedures without CC/MCC,0.6374,19.3,16.1
+682,Renal failure with MCC,0.908,22.6,18.8
+683,Renal failure with CC,0.73,20.7,17.3
+684,Renal failure without CC/MCC,0.6374,19.3,16.1
+686,Kidney and urinary tract neoplasms with MCC,1.0152,25.2,21.0
+687,Kidney and urinary tract neoplasms with CC,0.5193,16.9,14.1
+688,Kidney and urinary tract neoplasms without CC/MCC,0.5193,16.9,14.1
+689,Kidney and urinary tract infections with MCC,0.726,20.3,16.9
+690,Kidney and urinary tract infections without MCC,0.5391,17.7,14.8
+693,Urinary stones with MCC,0.5193,16.9,14.1
+694,Urinary stones without MCC,0.5193,16.9,14.1
+695,Kidney and urinary tract signs and symptoms with MCC,0.5193,16.9,14.1
+696,Kidney and urinary tract signs and symptoms without MCC,0.5193,16.9,14.1
+697,Urethral stricture,0.8845,22.9,19.1
+698,Other kidney and urinary tract diagnoses with MCC,0.8845,22.9,19.1
+699,Other kidney and urinary tract diagnoses with CC,0.5688,18.5,15.4
+700,Other kidney and urinary tract diagnoses without CC/MCC,0.5688,18.5,15.4
+707,Major male pelvic procedures with CC/MCC,0.8548,23.6,19.7
+708,Major male pelvic procedures without CC/MCC,0.8548,23.6,19.7
+709,Penis procedures with CC/MCC,1.7482,36.8,30.7
+710,Penis procedures without CC/MCC,0.5688,18.5,15.4
+711,Testes procedures with CC/MCC,1.7482,36.8,30.7
+712,Testes procedures without CC/MCC,0.6374,19.3,16.1
+713,Transurethral prostatectomy with CC/MCC,1.7482,36.8,30.7
+714,Transurethral prostatectomy without CC/MCC,1.7482,36.8,30.7
+715,Other male reproductive system O.R. procedures for malignancy with CC/MCC,0.6374,19.3,16.1
+716,Other male reproductive system O.R. procedures for malignancy without CC/MCC,0.6374,19.3,16.1
+717,Other male reproductive system O.R. procedures except malignancy with CC/MCC,1.7482,36.8,30.7
+718,Other male reproductive system O.R. procedures except malignancy without CC/MCC,0.6374,19.3,16.1
+722,"Malignancy, male reproductive system with MCC",0.5193,16.9,14.1
+723,"Malignancy, male reproductive system with CC",0.5193,16.9,14.1
+724,"Malignancy, male reproductive system without CC/MCC",0.5193,16.9,14.1
+725,Benign prostatic hypertrophy with MCC,0.5193,16.9,14.1
+726,Benign prostatic hypertrophy without MCC,0.5193,16.9,14.1
+727,Inflammation of the male reproductive system with MCC,0.7668,22.2,18.5
+728,Inflammation of the male reproductive system without MCC,0.6066,20.8,17.3
+729,Other male reproductive system diagnoses with CC/MCC,0.8548,23.6,19.7
+730,Other male reproductive system diagnoses without CC/MCC,0.6374,19.3,16.1
+734,"Pelvic evisceration, radical hysterectomy and radical vulvectomy with CC/MCC",0.8548,23.6,19.7
+735,"Pelvic evisceration, radical hysterectomy and radical vulvectomy without CC/MCC",0.8548,23.6,19.7
+736,Uterine and adnexa procedures for ovarian or adnexal malignancy with MCC,0.8548,23.6,19.7
+737,Uterine and adnexa procedures for ovarian or adnexal malignancy with CC,0.8548,23.6,19.7
+738,Uterine and adnexa procedures for ovarian or adnexal malignancy without CC/MCC,0.8548,23.6,19.7
+739,Uterine and adnexa procedures for non-ovarian and non-adnexal malignancy with MCC,0.8548,23.6,19.7
+740,Uterine and adnexa procedures for non-ovarian and non-adnexal malignancy with CC,0.8548,23.6,19.7
+741,Uterine and adnexa procedures for non-ovarian and non-adnexal malignancy without CC/MCC,0.5193,16.9,14.1
+742,Uterine and adnexa procedures for non-malignancy with CC/MCC,0.8548,23.6,19.7
+743,Uterine and adnexa procedures for non-malignancy without CC/MCC,0.8548,23.6,19.7
+744,"D&C, conization, laparoscopy and tubal interruption with CC/MCC",1.0152,25.2,21.0
+745,"D&C, conization, laparoscopy and tubal interruption without CC/MCC",1.0152,25.2,21.0
+746,"Vagina, cervix and vulva procedures with CC/MCC",0.8548,23.6,19.7
+747,"Vagina, cervix and vulva procedures without CC/MCC",0.8548,23.6,19.7
+748,Female reproductive system reconstructive procedures,0.8548,23.6,19.7
+749,Other female reproductive system O.R. procedures with CC/MCC,0.8548,23.6,19.7
+750,Other female reproductive system O.R. procedures without CC/MCC,0.8548,23.6,19.7
+754,"Malignancy, female reproductive system with MCC",1.0152,25.2,21.0
+755,"Malignancy, female reproductive system with CC",1.0152,25.2,21.0
+756,"Malignancy, female reproductive system without CC/MCC",1.0152,25.2,21.0
+757,"Infections, female reproductive system with MCC",0.8253,24.8,20.7
+758,"Infections, female reproductive system with CC",0.6374,19.3,16.1
+759,"Infections, female reproductive system without CC/MCC",0.6374,19.3,16.1
+760,Menstrual and other female reproductive system disorders with CC/MCC,0.6374,19.3,16.1
+761,Menstrual and other female reproductive system disorders without CC/MCC,0.6374,19.3,16.1
+768,Vaginal delivery with O.R. procedures except sterilization and/or D&C,0.6374,19.3,16.1
+769,Postpartum and post abortion diagnoses with O.R. procedures,0.6374,19.3,16.1
+770,"Abortion with D&C, aspiration curettage or hysterotomy",0.6374,19.3,16.1
+776,Postpartum and post abortion diagnoses without O.R. procedures,0.6374,19.3,16.1
+779,Abortion without D&C,0.6374,19.3,16.1
+783,Cesarean section with sterilization with MCC,1.0152,25.2,21.0
+784,Cesarean section with sterilization with CC,1.0152,25.2,21.0
+785,Cesarean section with sterilization without CC/MCC,1.0152,25.2,21.0
+786,Cesarean section without sterilization with MCC,1.0152,25.2,21.0
+787,Cesarean section without sterilization with CC,1.0152,25.2,21.0
+788,Cesarean section without sterilization without CC/MCC,1.0152,25.2,21.0
+789,"Neonates, died or transferred to another acute care facility",0.6374,19.3,16.1
+790,"Extreme immaturity or respiratory distress syndrome, neonate",0.6374,19.3,16.1
+791,Prematurity with major problems,0.6374,19.3,16.1
+792,Prematurity without major problems,0.6374,19.3,16.1
+793,Full term neonate with major problems,0.6374,19.3,16.1
+794,Neonate with other significant problems,0.6374,19.3,16.1
+795,Normal newborn,0.6374,19.3,16.1
+796,Vaginal delivery with sterilization and/or D&C with MCC,0.6374,19.3,16.1
+797,Vaginal delivery with sterilization and/or D&C with CC,0.6374,19.3,16.1
+798,Vaginal delivery with sterilization and/or D&C without CC/MCC,0.6374,19.3,16.1
+799,Splenectomy with MCC,1.6086,35.2,29.3
+800,Splenectomy with CC,0.8548,23.6,19.7
+801,Splenectomy without CC/MCC,0.8548,23.6,19.7
+802,Other O.R. procedures of the blood and blood forming organs with MCC,1.0152,25.2,21.0
+803,Other O.R. procedures of the blood and blood forming organs with CC,1.0152,25.2,21.0
+804,Other O.R. procedures of the blood and blood forming organs without CC/MCC,1.0152,25.2,21.0
+805,Vaginal delivery without sterilization or D&C with MCC,1.0152,25.2,21.0
+806,Vaginal delivery without sterilization or D&C with CC,1.0152,25.2,21.0
+807,Vaginal delivery without sterilization or D&C without CC/MCC,1.0152,25.2,21.0
+808,Major hematological and immunological diagnoses except sickle cell crisis and coagulation disorders with MCC,1.0152,25.2,21.0
+809,Major hematological and immunological diagnoses except sickle cell crisis and coagulation disorders with CC,0.5193,16.9,14.1
+810,Major hematological and immunological diagnoses except sickle cell crisis and coagulation disorders without CC/MCC,0.5193,16.9,14.1
+811,Red blood cell disorders with MCC,0.8196,23.5,19.6
+812,Red blood cell disorders without MCC,0.5193,16.9,14.1
+813,Coagulation disorders,0.6374,19.3,16.1
+814,Reticuloendothelial and immunity disorders with MCC,0.8548,23.6,19.7
+815,Reticuloendothelial and immunity disorders with CC,0.8548,23.6,19.7
+816,Reticuloendothelial and immunity disorders without CC/MCC,0.8548,23.6,19.7
+817,Other antepartum diagnoses with O.R. procedures with MCC,0.6374,19.3,16.1
+818,Other antepartum diagnoses with O.R. procedures with CC,0.6374,19.3,16.1
+819,Other antepartum diagnoses with O.R. procedures without CC/MCC,0.6374,19.3,16.1
+820,Lymphoma and leukemia with major O.R. procedures with MCC,1.0152,25.2,21.0
+821,Lymphoma and leukemia with major O.R. procedures with CC,1.0152,25.2,21.0
+822,Lymphoma and leukemia with major O.R. procedures without CC/MCC,1.0152,25.2,21.0
+823,Lymphoma and non-acute leukemia with other procedures with MCC,1.0152,25.2,21.0
+824,Lymphoma and non-acute leukemia with other procedures with CC,1.0152,25.2,21.0
+825,Lymphoma and non-acute leukemia with other procedures without CC/MCC,1.0152,25.2,21.0
+826,Myeloproliferative disorders or poorly differentiated neoplasms with major O.R. procedures with MCC,1.0152,25.2,21.0
+827,Myeloproliferative disorders or poorly differentiated neoplasms with major O.R. procedures with CC,1.0152,25.2,21.0
+828,Myeloproliferative disorders or poorly differentiated neoplasms with major O.R. procedures without CC/MCC,1.0152,25.2,21.0
+829,Myeloproliferative disorders or poorly differentiated neoplasms with other procedures with CC/MCC,1.0152,25.2,21.0
+830,Myeloproliferative disorders or poorly differentiated neoplasms with other procedures without CC/MCC,1.0152,25.2,21.0
+831,Other antepartum diagnoses without O.R. procedures with MCC,0.6374,19.3,16.1
+832,Other antepartum diagnoses without O.R. procedures with CC,0.6374,19.3,16.1
+833,Other antepartum diagnoses without O.R. procedures without CC/MCC,0.6374,19.3,16.1
+834,Acute leukemia without major O.R. procedures with MCC,0.8548,23.6,19.7
+835,Acute leukemia without major O.R. procedures with CC,0.8548,23.6,19.7
+836,Acute leukemia without major O.R. procedures without CC/MCC,0.5193,16.9,14.1
+837,Chemotherapy with acute leukemia as secondary diagnosis or with high dose chemotherapy agent with MCC,0.5193,16.9,14.1
+838,Chemotherapy with acute leukemia as secondary diagnosis with CC or high dose chemotherapy agent,0.5193,16.9,14.1
+839,Chemotherapy with acute leukemia as secondary diagnosis without CC/MCC,0.5193,16.9,14.1
+840,Lymphoma and non-acute leukemia with MCC,0.9263,22.1,18.4
+841,Lymphoma and non-acute leukemia with CC,0.6374,19.3,16.1
+842,Lymphoma and non-acute leukemia without CC/MCC,0.6374,19.3,16.1
+843,Other myeloproliferative disorders or poorly differentiated neoplastic diagnoses with MCC,0.8548,23.6,19.7
+844,Other myeloproliferative disorders or poorly differentiated neoplastic diagnoses with CC,0.8548,23.6,19.7
+845,Other myeloproliferative disorders or poorly differentiated neoplastic diagnoses without CC/MCC,0.8548,23.6,19.7
+846,Chemotherapy without acute leukemia as secondary diagnosis with MCC,1.0152,25.2,21.0
+847,Chemotherapy without acute leukemia as secondary diagnosis with CC,1.0152,25.2,21.0
+848,Chemotherapy without acute leukemia as secondary diagnosis without CC/MCC,1.0152,25.2,21.0
+849,Radiotherapy,1.0152,25.2,21.0
+853,Infectious and parasitic diseases with O.R. procedures with MCC,1.7175,36.6,30.5
+854,Infectious and parasitic diseases with O.R. procedures with CC,0.8548,23.6,19.7
+855,Infectious and parasitic diseases with O.R. procedures without CC/MCC,0.5193,16.9,14.1
+856,Postoperative or post-traumatic infections with O.R. procedures with MCC,1.4252,33.8,28.2
+857,Postoperative or post-traumatic infections with O.R. procedures with CC,1.2505,32.2,26.8
+858,Postoperative or post-traumatic infections with O.R. procedures without CC/MCC,0.5193,16.9,14.1
+862,Postoperative and post-traumatic infections with MCC,1.0876,25.9,21.6
+863,Postoperative and post-traumatic infections without MCC,0.7306,21.6,18.0
+864,Fever and inflammatory conditions,1.0152,25.2,21.0
+865,Viral illness with MCC,1.1185,23.5,19.6
+866,Viral illness without MCC,0.5193,16.9,14.1
+867,Other infectious and parasitic diseases diagnoses with MCC,1.1453,24.8,20.7
+868,Other infectious and parasitic diseases diagnoses with CC,0.6374,19.3,16.1
+869,Other infectious and parasitic diseases diagnoses without CC/MCC,0.6374,19.3,16.1
+870,Septicemia or severe sepsis with MV >96 hours,1.9471,29.4,24.5
+871,Septicemia or severe sepsis without MV >96 hours with MCC,0.932,22.7,18.9
+872,Septicemia or severe sepsis without MV >96 hours without MCC,0.5851,18.4,15.3
+876,O.R. procedures with principal diagnosis of mental illness,0.7881,22.9,19.1
+880,Acute adjustment reaction and psychosocial dysfunction,0.4959,17.7,14.8
+881,Depressive neuroses,0.6214,20.3,16.9
+882,Neuroses except depressive,0.6214,20.3,16.9
+883,Disorders of personality and impulse control,0.6214,20.3,16.9
+884,Organic disturbances and intellectual disability,0.5152,24.5,20.4
+885,Psychoses,0.4901,23.1,19.3
+886,Behavioral and developmental disorders,0.4959,17.7,14.8
+887,Other mental disorder diagnoses,0.4959,17.7,14.8
+894,"Alcohol, drug abuse or dependence, left AMA",0.4959,17.7,14.8
+895,"Alcohol, drug abuse or dependence with rehabilitation therapy",0.467,25.4,21.2
+896,"Alcohol, drug abuse or dependence without rehabilitation therapy with MCC",0.7881,22.9,19.1
+897,"Alcohol, drug abuse or dependence without rehabilitation therapy without MCC",0.6214,20.3,16.9
+901,Wound debridements for injuries with MCC,1.4248,33.0,27.5
+902,Wound debridements for injuries with CC,0.9523,29.3,24.4
+903,Wound debridements for injuries without CC/MCC,0.9523,29.3,24.4
+904,Skin grafts for injuries with CC/MCC,1.7482,36.8,30.7
+905,Skin grafts for injuries without CC/MCC,0.6374,19.3,16.1
+906,Hand procedures for injuries,0.5193,16.9,14.1
+907,Other O.R. procedures for injuries with MCC,1.511,33.2,27.7
+908,Other O.R. procedures for injuries with CC,0.8548,23.6,19.7
+909,Other O.R. procedures for injuries without CC/MCC,0.8548,23.6,19.7
+913,Traumatic injury with MCC,0.8548,23.6,19.7
+914,Traumatic injury without MCC,0.8548,23.6,19.7
+915,Allergic reactions with MCC,1.0152,25.2,21.0
+916,Allergic reactions without MCC,1.0152,25.2,21.0
+917,Poisoning and toxic effects of drugs with MCC,1.0152,25.2,21.0
+918,Poisoning and toxic effects of drugs without MCC,1.0152,25.2,21.0
+919,Complications of treatment with MCC,1.1632,28.1,23.4
+920,Complications of treatment with CC,0.8414,23.9,19.9
+921,Complications of treatment without CC/MCC,0.6374,19.3,16.1
+922,"Other injury, poisoning and toxic effect diagnoses with MCC",0.8548,23.6,19.7
+923,"Other injury, poisoning and toxic effect diagnoses without MCC",0.8548,23.6,19.7
+927,Extensive burns or full thickness burns with MV >96 hours with skin graft,1.7482,36.8,30.7
+928,Full thickness burn with skin graft or inhalation injury with CC/MCC,1.7482,36.8,30.7
+929,Full thickness burn with skin graft or inhalation injury without CC/MCC,1.7482,36.8,30.7
+933,Extensive burns or full thickness burns with MV >96 hours without skin graft,0.8548,23.6,19.7
+934,Full thickness burn without skin graft or inhalation injury,0.6374,19.3,16.1
+935,Non-extensive burns,0.8548,23.6,19.7
+939,O.R. procedures with diagnoses of other contact with health services with MCC,1.3009,32.8,27.3
+940,O.R. procedures with diagnoses of other contact with health services with CC,0.9483,29.3,24.4
+941,O.R. procedures with diagnoses of other contact with health services without CC/MCC,0.9483,29.3,24.4
+945,Rehabilitation with CC/MCC,0.6621,20.5,17.1
+946,Rehabilitation without CC/MCC,0.4063,16.3,13.6
+947,Signs and symptoms with MCC,0.7768,20.1,16.8
+948,Signs and symptoms without MCC,0.6374,19.3,16.1
+949,Aftercare with CC/MCC,0.7558,21.7,18.1
+950,Aftercare without CC/MCC,0.42,15.1,12.6
+951,Other factors influencing health status,0.42,15.1,12.6
+955,Craniotomy for multiple significant trauma,1.0152,25.2,21.0
+956,"Limb reattachment, hip and femur procedures for multiple significant trauma",1.0152,25.2,21.0
+957,Other O.R. procedures for multiple significant trauma with MCC,1.0152,25.2,21.0
+958,Other O.R. procedures for multiple significant trauma with CC,1.0152,25.2,21.0
+959,Other O.R. procedures for multiple significant trauma without CC/MCC,1.0152,25.2,21.0
+963,Other multiple significant trauma with MCC,1.0152,25.2,21.0
+964,Other multiple significant trauma with CC,0.5193,16.9,14.1
+965,Other multiple significant trauma without CC/MCC,0.5193,16.9,14.1
+969,HIV with extensive O.R. procedures with MCC,1.7482,36.8,30.7
+970,HIV with extensive O.R. procedures without MCC,1.7482,36.8,30.7
+974,HIV with major related condition with MCC,1.1967,23.4,19.5
+975,HIV with major related condition with CC,1.0152,25.2,21.0
+976,HIV with major related condition without CC/MCC,1.0152,25.2,21.0
+977,HIV with or without other related condition,1.0152,25.2,21.0
+981,Extensive O.R. procedures unrelated to principal diagnosis with MCC,2.2735,40.5,33.8
+982,Extensive O.R. procedures unrelated to principal diagnosis with CC,1.2942,30.8,25.7
+983,Extensive O.R. procedures unrelated to principal diagnosis without CC/MCC,1.2942,30.8,25.7
+987,Non-extensive O.R. procedures unrelated to principal diagnosis with MCC,1.8505,36.8,30.7
+988,Non-extensive O.R. procedures unrelated to principal diagnosis with CC,1.7482,36.8,30.7
+989,Non-extensive O.R. procedures unrelated to principal diagnosis without CC/MCC,0.6374,19.3,16.1
+998,Principal diagnosis invalid as discharge diagnosis,0.0,0.0,0.0
+999,Ungroupable,0.0,0.0,0.0

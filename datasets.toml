@@ -1,0 +1,109 @@
+[ICD-10-CM]
+DESCRIPTION = "ICD-10-CM diagnosis codes with description in tabular order"
+FORMAT = "To do"
+HEADER = ["code", "description"]
+DIRECTORY = "ICD-10-CM"
+
+    [ICD-10-CM.HEADER_DESCRIPTION]
+    code = "ICD-10-CM Code as 7 digit str without the decimal"
+    description = "ICD-10-CM code's long description"
+
+    [ICD-10-CM.2023]
+    FISCALYEAR = 2023
+    FILE = "icd10cm_codes_2023.txt"
+    DESCRIPTION = "FY 2023 ICD-10-CM Codes"
+    SOURCE = "https://www.cms.gov/files/zip/2023-code-descriptions-tabular-order.zip"
+    PUBLISHED = 2022-06-07
+    START = 2022-10-01
+    END = 2023-09-30
+
+
+[MS-LTC-DRG]
+DESCRIPTION = "MS-LTC-DRG Final Rule Data"
+FORMAT = "To do"
+HEADER = ["drg", "title", "relative_weight", "gmlos", "sso"]
+DIRECTORY = "MS-LTC-DRG"
+
+    [MS-LTC-DRG.HEADER_DESCRIPTION]
+    drg = "Diagnostically Related Group"
+    title = "DRG Title"
+    rw = "Relative Weight"
+    gmlos = "Geometric Average Length of Stay"
+    sso = "Short-Stay Outlier (SSO) Threadshold"
+
+    [MS-LTC-DRG.2016]
+    # This is the Correction Notice file
+    FISCALYEAR = 2016
+    FILE = "FY 2016 Table 11 (CMS-1632-CN).txt"
+    DESCRIPTION = "TABLE 11.--- MS-LTC-DRGS, RELATIVE WEIGHTS, GEOMETRIC AVERAGE LENGTH OF STAY, SHORT-STAY                               OUTLIER (SSO) THRESHOLD, AND “IPPS COMPARABLE THRESHOLD” FOR DISCHARGES OCCURRING FROM                             OCTOBER 1, 2015 THROUGH SEPTEMBER 30, 2016 UNDER THE LTCH PPS - CORRECTED"
+    SOURCE = "https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/LongTermCareHospitalPPS/Downloads/FY2016-FR-LTCH-DRG.zip"
+    PUBLISHED = 2015-09-29
+    START = 2015-10-01
+    END = 2016-09-30
+
+    [MS-LTC-DRG.2017]
+    # This is the Correction Notice file
+    FISCALYEAR = 2017
+    FILE = "CMS-1655-CN2 Table 11.txt"
+    DESCRIPTION = "TABLE 11.--- MS-LTC-DRGS, RELATIVE WEIGHTS, GEOMETRIC AVERAGE LENGTH OF STAY, SHORT-STAY OUTLIER (SSO) THRESHOLD, AND “IPPS COMPARABLE THRESHOLD” FOR DISCHARGES OCCURRING FROM OCTOBER 1, 2016 THROUGH SEPTEMBER 30, 2017 UNDER THE LTCH PPS (as corrected in CMS-1655-CN issued October 2016)"
+    SOURCE = "https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/LongTermCareHospitalPPS/Downloads/FY2017-FR-LTCH-DRG.zip"
+    PUBLISHED = 2017-10-02
+    START = 2016-10-01
+    END = 2017-09-30
+
+    [MS-LTC-DRG.2018]
+    # This is the Correction Notice file
+    FISCALYEAR = 2018
+    FILE = "CMS-1677-CN Table 11.txt"
+    DESCRIPTION = "TABLE 11.— MS-LTC-DRGS, RELATIVE WEIGHTS, GEOMETRIC AVERAGE LENGTH OF STAY, SHORT-STAY OUTLIER (SSO) THRESHOLD FOR DISCHARGES OCCURRING FROM OCTOBER 1, 2017 THROUGH SEPTEMBER 30, 2018 UNDER THE LTCH PPS (as corrected in CMS-1677-CN issued September 2017)"
+    SOURCE = "https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/LongTermCareHospitalPPS/Downloads/FY2018-FR-LTCH-DRG.zip"
+    PUBLISHED = 2017-10-02
+    START = 2017-10-01
+    END = 2018-09-30
+
+    [MS-LTC-DRG.2019]
+    # This is the Correction Notice file
+    # Excess blank lines were removed from the 'raw' file to reduce the filesize
+    FISCALYEAR = 2019
+    FILE = "CMS-1694-CN Table 11.txt"
+    DESCRIPTION = "TABLE 11.—  MS-LTC-DRGS, RELATIVE WEIGHTS, GEOMETRIC AVERAGE LENGTH OF STAY, SHORT-STAY OUTLIER (SSO) THRESHOLD FOR DISCHARGES OCCURRING FROM OCTOBER 1, 2018 THROUGH SEPTEMBER 30, 2019 UNDER THE LTCH PPS - Correction"
+    SOURCE = "https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/LongTermCareHospitalPPS/Downloads/FY2019-FR-LTCH-DRG.zip"
+    PUBLISHED = 2018-09-28
+    START = 2018-10-01
+    END = 2019-09-30
+
+    [MS-LTC-DRG.2020]
+    FISCALYEAR = 2020
+    FILE = "CMS-1716-F Table 11.txt"
+    DESCRIPTION = "TABLE 11.—  MS-LTC-DRGS, RELATIVE WEIGHTS, GEOMETRIC AVERAGE LENGTH OF STAY, SHORT-STAY OUTLIER (SSO) THRESHOLD FOR DISCHARGES OCCURRING FROM OCTOBER 1, 2019 THROUGH SEPTEMBER 30, 2020 UNDER THE LTCH PPS"
+    SOURCE = "https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/LongTermCareHospitalPPS/Downloads/FY2020-LTCH-FR-Table-11.zip"
+    PUBLISHED = 2019-07-19
+    START = 2019-10-01
+    END = 2020-09-30
+
+    [MS-LTC-DRG.2021]
+    FISCALYEAR = 2021
+    FILE = "CMS-1735-F Table 11.txt"
+    DESCRIPTION = "TABLE 11.—  MS-LTC-DRGS, RELATIVE WEIGHTS, GEOMETRIC AVERAGE LENGTH OF STAY, SHORT-STAY OUTLIER (SSO) THRESHOLD FOR DISCHARGES OCCURRING FROM OCTOBER 1, 2020 THROUGH SEPTEMBER 30, 2021 UNDER THE LTCH PPS"
+    SOURCE = "https://www.cms.gov/files/zip/fy-2021-ms-ltc-drg-file-table-11.zip-1"
+    PUBLISHED = 2020-08-28
+    START = 2020-10-01
+    END = 2021-09-30
+
+    [MS-LTC-DRG.2022]
+    FISCALYEAR = 2022
+    FILE = "CMS-1752-F Table 11.txt"
+    DESCRIPTION = "TABLE 11.—  MS-LTC-DRGS, RELATIVE WEIGHTS, GEOMETRIC AVERAGE LENGTH OF STAY, SHORT-STAY OUTLIER (SSO) THRESHOLD FOR DISCHARGES OCCURRING FROM OCTOBER 1, 2021 THROUGH SEPTEMBER 30, 2022 UNDER THE LTCH PPS"
+    SOURCE = "https://www.cms.gov/files/zip/fy-2022-ms-ltc-drg-file-table-11.zip-0"
+    PUBLISHED = 2021-07-27
+    START = 2021-10-01
+    END = 2022-09-30
+
+    [MS-LTC-DRG.2023]
+    FISCALYEAR = 2023
+    FILE = "CMS-1771-F Table 11.txt"
+    DESCRIPTION = "TABLE 11.—  MS-LTC-DRGS, RELATIVE WEIGHTS, GEOMETRIC AVERAGE LENGTH OF STAY, SHORT-STAY OUTLIER (SSO) THRESHOLD FOR DISCHARGES OCCURRING FROM OCTOBER 1, 2022 THROUGH SEPTEMBER 30, 2023 UNDER THE LTCH PPS"
+    SOURCE = "https://www.cms.gov/files/zip/fy2023-ipps-fr-table-5.zip"
+    PUBLISHED = 2022-08-01
+    START = 2022-10-01
+    END = 2023-09-30
