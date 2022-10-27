@@ -20,6 +20,8 @@ def main():
     df = pd.read_fwf(
         rf"../../raw/{DIRECTORY}/{FILE_NAME}",
         encoding="windows-1252",
+        colspecs=[(0, 7), (7, 500)],
+        header=None,
     )
     df.columns = HEADER
     validate_icd10cm_dataframe(df)
